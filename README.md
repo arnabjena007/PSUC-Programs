@@ -1,4 +1,3 @@
-
 Absolutely, here's a description that could be used to highlight the PSUC (Problem Solving Using Computers) subject, emphasizing its focus on C programming and RAPTOR flowchart-based programs to aid in acing exams:
 
 PSUC (Problem Solving Using Computers)
